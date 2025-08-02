@@ -1,5 +1,6 @@
 # Weather-Forecast-App
 Web Development project using html,css,Javascript,Jquery,Openweather API
 
-<img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/9831b128-e48d-4679-b9c0-b08443cf0a62" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/bd45b15d-5dce-4f04-92b4-40353a79a3c4" />
+
 
